@@ -7,7 +7,7 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+## How it works :)
 
 Simple 4 bit carry adder with no initial carry-in. Inputs A/B0 reference bit 0, A/B1 reference bit 1 and so forth. Output O0 reference output bit 0, O1 reference output bit 1 and so forth. 
 
